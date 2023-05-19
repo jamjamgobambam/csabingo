@@ -1,0 +1,162 @@
+[
+    {
+      "term": "algorithm",
+      "definition": "a finite set of instructions that accomplish a task"
+    },
+    {
+      "term": "argument",
+      "definition": "the specific value provided when a method or constructor is called"
+    },
+    {
+      "term": "attribute",
+      "definition": "a characteristic of an object"
+    },
+    {
+      "term": "behavior",
+      "definition": "an action that an object can perform"
+    },
+    {
+      "term": "class",
+      "definition": "a programmer-defined blueprint from which objects are created"
+    },
+    {
+      "term": "class header",
+      "definition": "consists of the class keyword and the name of the class"
+    },
+    {
+      "term": "code review",
+      "definition": "the process of examining code and providing feedback to improve the quality and functionality of the program"
+    },
+    {
+      "term": "comment",
+      "definition": "a text note to explain or annotate the code and is ignored when the program is run"
+    },
+    {
+      "term": "commit",
+      "definition": "an operation which saves the latest changes of the code and represents a snapshot of a project"
+    },
+    {
+      "term": "condition",
+      "definition": "determines whether or not to execute a block of code"
+    },
+    {
+      "term": "constructor",
+      "definition": "a block of code that has the same name as the class and tells the computer how to create a new object"
+    },
+    {
+      "term": "data type",
+      "definition": "the format of the data that can be stored in a variable"
+    },
+    {
+      "term": "declaration",
+      "definition": "giving a name and data type to a variable"
+    },
+    {
+      "term": "decomposition",
+      "definition": "the process of breaking a problem down into smaller parts to write methods for each part"
+    },
+    {
+      "term": "documentation",
+      "definition": "written descriptions of the purpose and functionality of code"
+    },
+    {
+      "term": "dot operator",
+      "definition": "used to call a method in a class"
+    },
+    {
+      "term": "efficient",
+      "definition": "getting the best outcome with the least amount of waste"
+    },
+    {
+      "term": "inheritance",
+      "definition": "an object-oriented programming principle where a subclass inherits the attributes and behaviors of a superclass"
+    },
+    {
+      "term": "instantiate",
+      "definition": "to call the constructor to create an object"
+    },
+    {
+      "term": "iteration statement",
+      "definition": "a control structure that repeatedly executes a block of code"
+    },
+    {
+      "term": "method",
+      "definition": "a named set of instructions to perform a task"
+    },
+    {
+      "term": "method signature",
+      "definition": "consists of a name and parameter list"
+    },
+    {
+      "term": "object",
+      "definition": "an instance of a class"
+    },
+    {
+      "term": "object-oriented programming",
+      "definition": "an approach to creating and using models of physical or imagined objects"
+    },
+    {
+      "term": "parameter",
+      "definition": "defines the type of value to receive when a method or constructor is called"
+    },
+    {
+      "term": "programming style",
+      "definition": "a set of guidelines and best practices for formatting program code"
+    },
+    {
+      "term": "redundant",
+      "definition": "code that is unnecessary"
+    },
+    {
+      "term": "return",
+      "definition": "to exit a method and go back to the point in the program that called it with the requested value or information"
+    },
+    {
+      "term": "return type",
+      "definition": "the value returned before a method completes its execution and exits"
+    },
+    {
+      "term": "selection statement",
+      "definition": "a statement that only executes when a condition is true"
+    },
+    {
+      "term": "software engineer",
+      "definition": "a person who designs, develops, and tests software for home, school, and business use"
+    },
+    {
+      "term": "source code",
+      "definition": "a collection of programming commands"
+    },
+    {
+      "term": "string literal",
+      "definition": "a sequence of characters enclosed in quotation marks ( \" \" )"
+    },
+    {
+      "term": "subclass",
+      "definition": "a class that extends a superclass and inherits its attributes and behaviors"
+    },
+    {
+      "term": "superclass",
+      "definition": "a class that can be extended to create subclasses"
+    },
+    {
+      "term": "syntax",
+      "definition": "the rules for how a programmer must write code for a computer to understand"
+    },
+    {
+      "term": "syntax error",
+      "definition": "a mistake in the code that does not follow a programming language's syntax"
+    },
+    {
+      "term": "tester class",
+      "definition": "the class that contains the main method and from where the program starts running"
+    },
+    {
+      "term": "variable",
+      "definition": "a container that stores a value in memory"
+    },
+    {
+      "term": "void",
+      "definition": "specifies that a method should not have a return value"
+    }
+]

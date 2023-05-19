@@ -1,0 +1,186 @@
+[
+    {
+      "term": "access modifier",
+      "definition": "a keyword used to set the visibility of classes, variables, constructors, and methods"
+    },
+    {
+      "term": "accessor method",
+      "definition": "gives the value that is currently assigned to an instance variable"
+    },
+    {
+      "term": "actual parameter",
+      "definition": "the value to assign to the formal parameter"
+    },
+    {
+      "term": "application program interface (API)",
+      "definition": "a library of prewritten classes"
+    },
+    {
+      "term": "assignment",
+      "definition": "using the assignment operator ( = ) to initialize or change the value stored in a variable"
+    },
+    {
+      "term": "Boolean expression",
+      "definition": "a logical statement that gives either a true or false value"
+    },
+    {
+      "term": "call by value",
+      "definition": "copying the value of the actual parameter to the constructor's formal parameter"
+    },
+    {
+      "term": "compound assignment operator",
+      "definition": "shortcut syntax to perform an operation on both operands and assign the result into the variable on the left"
+    },
+    {
+      "term": "compound expression",
+      "definition": "a combination of expressions"
+    },
+    {
+      "term": "concatenation",
+      "definition": "when two Strings are joined together"
+    },
+    {
+      "term": "constructor signature",
+      "definition": "the first line of the constructor which includes the public keyword, the constructor name, and any parameters"
+    },
+    {
+      "term": "data structure",
+      "definition": "a structure for organizing, processing, retrieving, and storing data"
+    },
+    {
+      "term": "decrement",
+      "definition": "to decrease a value by one"
+    },
+    {
+      "term": "default value",
+      "definition": "a predefined value that is used by a program when the user does not provide a value"
+    },
+    {
+      "term": "DRY principle",
+      "definition": "a software development principle that stands for \"Don't Repeat Yourself\" which aims to reduce repetition in code"
+    },
+    {
+      "term": "element",
+      "definition": "a single value or object in a data structure"
+    },
+    {
+      "term": "encapsulation",
+      "definition": "an object-oriented programming concept where the instance variables of a class are hidden from other classes and can be accessed only through the methods of the class"
+    },
+    {
+      "term": "escape sequence",
+      "definition": "starts with a \\ to indicate how to display a String"
+    },
+    {
+      "term": "expression",
+      "definition": "a combination of data and operators that evaluates to a single value"
+    },
+    {
+      "term": "formal parameter",
+      "definition": "the value to be passed to a constructor or method"
+    },
+    {
+      "term": "increment",
+      "definition": "to increase a value by one"
+    },
+    {
+      "term": "index",
+      "definition": "an integer value that indicates the position of a value in a data structure"
+    },
+    {
+      "term": "initialization",
+      "definition": "giving a starting value to a variable using the assignment operator ( = )"
+    },
+    {
+      "term": "initializer list",
+      "definition": "a comma-separated list of values or objects for an array given inside curly braces ( { } )"
+    },
+    {
+      "term": "instance variable",
+      "definition": "a variable defined in a class that represents an attribute of an object"
+    },
+    {
+      "term": "library",
+      "definition": "a collection of methods or reusable components of code"
+    },
+    {
+      "term": "literal",
+      "definition": "a source code representation of a value, such as a number or text"
+    },
+    {
+      "term": "local variable",
+      "definition": "a variable declared and accessible within a specific block of code"
+    },
+    {
+      "term": "loop control variable",
+      "definition": "a variable that is changed by a constant value and determines the end of a loop"
+    },
+    {
+      "term": "mutator method",
+      "definition": "changes the value assigned to an instance variable"
+    },
+    {
+      "term": "no-argument constructor",
+      "definition": "a constructor with no parameters"
+    },
+    {
+      "term": "off-by-one error",
+      "definition": "an error that occurs when we try to access an index value that is greater than the length of the array"
+    },
+    {
+      "term": "one-dimensional (1D) array",
+      "definition": "a data structure that holds multiple values of the same data type"
+    },
+    {
+      "term": "operand",
+      "definition": "the data that is operated on"
+    },
+    {
+      "term": "overloading",
+      "definition": "defining two or more constructors or methods with the same name but different signatures"
+    },
+    {
+      "term": "override",
+      "definition": "to define a method in a subclass with the same method signature as a method inherited from a superclass"
+    },
+    {
+      "term": "parameterized constructor",
+      "definition": "a constructor that has a specific number of arguments to be passed to assign values to an object's instance variables"
+    },
+    {
+      "term": "primitive type",
+      "definition": "a basic data type that Java predefines"
+    },
+    {
+      "term": "refactor",
+      "definition": "to improve the readability, reusability, or structure of program code without altering its functionality"
+    },
+    {
+      "term": "reference type",
+      "definition": "a data type that contains a pointer to the memory location of an object"
+    },
+    {
+      "term": "relational operator",
+      "definition": "an operator used to compare values or expressions"
+    },
+    {
+      "term": "return by value",
+      "definition": "a copy of the value is given to where the method is called"
+    },
+    {
+      "term": "scope",
+      "definition": "where a variable can be used"
+    },
+    {
+      "term": "state",
+      "definition": "the attributes of an object that are represented by its instance variables"
+    },
+    {
+      "term": "traverse",
+      "definition": "to access elements in a data structure one by one"
+    },
+    {
+      "term": "truncate",
+      "definition": "to cut off data from the end"
+    }
+]

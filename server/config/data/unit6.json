@@ -1,0 +1,98 @@
+[
+    {
+      "term": "ArrayList",
+      "definition": "a class that represents a resizable list"
+    },
+    {
+      "term": "autoboxing",
+      "definition": "the process of automatically converting a primitive type value into an object of the corresponding wrapper class"
+    },
+    {
+      "term": "column",
+      "definition": "a vertical (up and down) series of data in a two-dimensional (2D) array"
+    },
+    {
+      "term": "column-major order",
+      "definition": "traversing a 2D array by accessing each column from left to right"
+    },
+    {
+      "term": "documentation",
+      "definition": "written descriptions of the purpose and functionality of code"
+    },
+    {
+      "term": "dynamic data structure",
+      "definition": "a data structure that grows and shrinks as needed"
+    },
+    {
+      "term": "generic type",
+      "definition": "allows a class, or type, to be used as the parameter to an ArrayList and is indicated by < >"
+    },
+    {
+      "term": "HTML",
+      "definition": "stands for Hypertext Markup Language; the standard system for tagging text files to be displayed on the World Wide Web"
+    },
+    {
+      "term": "inner array",
+      "definition": "an array that is nested inside another array"
+    },
+    {
+      "term": "Javadocs",
+      "definition": "the documentation tool for Java that generates an HTML document from comments written inside /** */ and formatted using @ tags"
+    },
+    {
+      "term": "mutable",
+      "definition": "the ability to change after initialization"
+    },
+    {
+      "term": "natural language processing (NLP)",
+      "definition": "the ability of a computer program to understand human language"
+    },
+    {
+      "term": "outer array",
+      "definition": "the outermost array of a two-dimensional array"
+    },
+    {
+      "term": "overflow error",
+      "definition": "an error that occurs when an operation makes an integer value greater than its maximum"
+    },
+    {
+      "term": "parsing",
+      "definition": "the process of dividing text into parts for analysis or conversion"
+    },
+    {
+      "term": "pixel",
+      "definition": "the smallest unit of information in an image"
+    },
+    {
+      "term": "RGB",
+      "definition": "a color model consisting of red, green, and blue lights to display images"
+    },
+    {
+      "term": "row",
+      "definition": "a horizontal (left to right) series of data in a two-dimensional (2D) array"
+    },
+    {
+      "term": "row-major order",
+      "definition": "traversing a 2D array by accessing each row from top to bottom"
+    },
+    {
+      "term": "static data structure",
+      "definition": "a data structure that is fixed in size"
+    },
+    {
+      "term": "two-dimensional (2D) array",
+      "definition": "an array of arrays often represented as a table with rows and columns"
+    },
+    {
+      "term": "unboxing",
+      "definition": "automatically converting an object of a wrapper class to its corresponding primitive type"
+    },
+    {
+      "term": "underflow error",
+      "definition": "an error that occurs when an operation makes an integer value less than its minimum"
+    },
+    {
+      "term": "wrapper class",
+      "definition": "a class used to convert primitive data types into objects"
+    }
+]
